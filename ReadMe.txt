@@ -18,8 +18,15 @@ en exécutant les lignes de commandes citées
  pandas:
 pip install pandas
 
+tkinter:
+pip install tkinter
+
  openpyxl:
 python -m pip install openpyxl
+
+pillow:
+pip install pillow
+
 
 Instructions:
 Copier les données élèves dans le fichier Excel
